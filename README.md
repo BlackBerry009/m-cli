@@ -3,7 +3,7 @@ a cli to initialize project
 
 - [x] React-ts (React, Typescript, antd, tailindcss)
 - [x] lib  
-- [ ] Vue3
+- [x] Vue3
 
 # Usage
 ```sh
